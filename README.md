@@ -21,3 +21,6 @@ The model achieved an R² of ~0.63 on the test set, meaning it explains about 63
 - pandas, numpy
 - scikit-learn (LinearRegression)
 - matplotlib (visualization)
+
+- ## Visualization
+![Actual vs Predicted House Prices](fig_actual_vs_predicted.png)
